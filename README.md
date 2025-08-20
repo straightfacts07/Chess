@@ -1,3 +1,3 @@
 # Chess(inProgress)
 
-A friendly app of play chess
+A friendly app to play chess
